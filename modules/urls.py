@@ -5,7 +5,8 @@ GRADES = {
 }
 
 SUBJECTS = {
-    'reading': 'reading-comprehension-worksheets'
+    'reading': 'reading-comprehension-worksheets',
+    'math': 'free-math-worksheets'
 }
 
 TOPICS = {
